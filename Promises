@@ -1,5 +1,5 @@
 function asynchronous_operational_method() {
- let first_promise =
+    let first_promise =
         new Promise((resolve, reject) => resolve("Hello"));
     let second_promise = 
         new Promise((resolve, reject) => {
