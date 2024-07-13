@@ -1,4 +1,4 @@
-function asymchronous_operational_method() {
+function asynchronous_operational_method() {
     let first_promise=
         new Promise((resolve, reject) => resolve("Hello"));
     let second_promise =
