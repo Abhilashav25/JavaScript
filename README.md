@@ -1,2 +1,2 @@
-Addeed this file to make commits
-   
+Added this file to make commits
+
